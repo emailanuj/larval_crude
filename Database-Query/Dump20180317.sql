@@ -38,7 +38,7 @@ CREATE TABLE `members` (
 
 LOCK TABLES `members` WRITE;
 /*!40000 ALTER TABLE `members` DISABLE KEYS */;
-INSERT INTO `members` VALUES (1,'Anuj Dubey','email.anujdubey@gmail.com','2018-03-16 13:45:55','2018-03-16 13:45:55'),(2,'Shitakshi Shukla','shitakshi@gmail.com','2018-03-16 13:46:18','2018-03-16 13:46:18');
+INSERT INTO `members` VALUES (1,'Anuj Dubey','email.anujdubey@gmail.com','2018-03-16 13:45:55','2018-03-16 13:45:55'),(2,'User Two','user2@gmail.com','2018-03-16 13:46:18','2018-03-16 13:46:18');
 /*!40000 ALTER TABLE `members` ENABLE KEYS */;
 UNLOCK TABLES;
 
